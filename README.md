@@ -35,11 +35,13 @@ class PirateKaiju(Monstrosityofadeveloper):
     
     currently_learning = "Redis and a little bit of NodeJS in depth"
     
+    current_personal_project = "Something with people dating"
+    
     current_creative_activity = "Outlining Kuro (RPG) campains"
     
     current_recreational_activity = "Reading Michael Crichton's 'Prey'"
     
-    self.personal_stuff = [currently_learning, current_creative_activity, current_recreational_activity]
+    self.personal_stuff = [currently_learning, current_personal_project, current_creative_activity, current_recreational_activity]
   
   
   def listen_to_depeche_mode(self, album):
