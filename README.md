@@ -1,10 +1,14 @@
 ### Hi there! I'm Luiz 'Kaiju' Antonio 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PirateKaiju)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=PirateKaiju)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+![Kaiju's github stats](https://github-readme-stats.vercel.app/api?username=PirateKaiju&count_private=false&show_icons=true&theme=synthwave&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateKaiju&layout=compact&theme=synthwave)
 
 Possibly the easiest way to reach me: 
 
-[![Twitter: PirateKaiju](https://img.shields.io/twitter/follow/PirateKaiju?style=social)](https://twitter.com/PirateKaiju)
+<!--[![Twitter: PirateKaiju](https://img.shields.io/twitter/follow/PirateKaiju?style=social)](https://twitter.com/PirateKaiju)-->
+[![Telegram Badge](https://img.shields.io/badge/-@PirateKaiju-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PirateKaiju "Contact on Telegram")
 
 A little bit (actually, quite some bytes [implied joke]) about me...
 
@@ -17,6 +21,8 @@ class PirateKaiju(Monstrosityofadeveloper):
     self.education = "Bachelor's Degree in Computer Science"
     
     self.is_backend = True
+    
+    self.pronoums = ("He", "Him")
     
     self.weapons_of_choice = ["Python", "PHP", "JavaScript", "C++", "C#", "Go"] #Quicknote: Possible new additions in the future...
     
