@@ -28,7 +28,7 @@ class PirateKaiju(Monstrosityofadeveloper):
     
     self.auxiliar_arsenal = ["Symfony", "Flask", "Django", "Laravel", "ExpressJS", "TKinter", "Electron", "STL", ".NET Core"]
     
-    self.frontend_friends = ["HTML5", "CSS3", "Boostrap", "React", "React Native", "Bulma CSS"]
+    self.frontend_friends = ["HTML5", "CSS3", "Bootstrap", "JQuery", "React", "React Native", "Bulma CSS"]
     
     self.storing_my_stuff = ["SQLite", "MySQL", "PostgreSQL", "Firebase", "MongoDB"]
     
