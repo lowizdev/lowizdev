@@ -2,13 +2,13 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=PirateKaiju)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![Kaiju's github stats](https://github-readme-stats.vercel.app/api?username=PirateKaiju&count_private=false&show_icons=true&theme=synthwave&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateKaiju&layout=compact&theme=synthwave)
+![Kaiju's github stats](https://github-readme-stats.vercel.app/api?username=PirateKaiju&count_private=false&show_icons=true&hide_border=true&hide=stars&hide_title=true)
+ 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateKaiju&layout=compact&theme=synthwave)-->
 
 Possibly the easiest way to reach me: 
 
-<!--[![Twitter: PirateKaiju](https://img.shields.io/twitter/follow/PirateKaiju?style=social)](https://twitter.com/PirateKaiju)-->
-[![Telegram Badge](https://img.shields.io/badge/-@PirateKaiju-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PirateKaiju "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@PirateKaiju-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PirateKaiju "Contact on Telegram") 
 
 A little bit (actually, quite some bytes [implied joke]) about me...
 
@@ -39,9 +39,9 @@ class PirateKaiju(Monstrosityofadeveloper):
   
   def set_personal_stuff(self):
     
-    currently_learning = "Redis and a little bit of NodeJS in depth"
+    currently_learning = "Redis and having a peek at Go"
     
-    current_personal_project = "Something with people dating"
+    current_personal_project = "Still working on something with dating"
     
     current_creative_activity = "Outlining Kuro (RPG) campains"
     
