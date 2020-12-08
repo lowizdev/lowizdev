@@ -2,7 +2,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=PirateKaiju)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![Kaiju's github stats](https://github-readme-stats.vercel.app/api?username=PirateKaiju&count_private=false&show_icons=true&hide_border=true&hide=stars&hide_title=true)
+![Kaiju's github stats](https://github-readme-stats.vercel.app/api?username=PirateKaiju&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_title=true)
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateKaiju&layout=compact&theme=synthwave)-->
 
