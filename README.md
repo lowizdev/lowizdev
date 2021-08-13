@@ -8,7 +8,8 @@
 
 Possibly the easiest way to reach me: 
 
-[![Telegram Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sangonsalvesdev "Contact on Telegram") 
+[![Telegram Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sangonsalvesdev "Contact on Telegram")
+[![Linkedin Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-santos-gonsalves-junior-b9279519b/ "Follow me on Linkedin")
 
 A little bit (actually, quite some bytes [implied joke]) about me...
 
@@ -43,7 +44,7 @@ class Sangonsalvesdev(Developer):
     
     current_personal_project = "Trucks are really cool"
     
-    current_creative_activity = "Gotta get back into writing..."
+    current_creative_activity = "Gotta get back into writing and blogging..."
     
     current_recreational_activity = "Reading Liu's The Three-Body Problem"
     
@@ -56,7 +57,7 @@ class Sangonsalvesdev(Developer):
 ```
 
 <!--
-**PirateKaiju/PirateKaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sangonsalvesdev/sangonsalvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
