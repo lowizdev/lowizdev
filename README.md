@@ -6,7 +6,7 @@
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangonsalvesdev&layout=compact&theme=synthwave)-->
 
-Possibly the easiest way to reach me: 
+Possibly the easiest ways to reach me: 
 
 [![Telegram Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sangonsalvesdev "Contact on Telegram")
 [![Linkedin Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-santos-gonsalves-junior-b9279519b/ "Follow me on Linkedin")
