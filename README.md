@@ -1,21 +1,21 @@
 ### Hi there! I'm Luiz Antonio 👋
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sangonsalvesdev)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=lowizdev)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=sangonsalvesdev&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_title=true)
+![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=lowizdev&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_title=true)
  
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangonsalvesdev&layout=compact&theme=synthwave)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowizdev&layout=compact&theme=synthwave)-->
 
 Possibly the easiest ways to reach me: 
 
-[![Telegram Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sangonsalvesdev "Contact on Telegram")
-[![Linkedin Badge](https://img.shields.io/badge/-@sangonsalvesdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-santos-gonsalves-junior-b9279519b/ "Follow me on Linkedin")
+[![Telegram Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lowizdev "Contact on Telegram")
+[![Linkedin Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-santos-gonsalves-junior-b9279519b/ "Follow me on Linkedin")
 
 A little bit (actually, quite some bytes [implied joke]) about me...
 
 ```python
 
-class Sangonsalvesdev(Developer):
+class Lowizdev(Developer):
   
   def __init__(self):
     #TODO: Add more of those 'bad jokes' here...
