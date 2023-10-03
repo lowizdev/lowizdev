@@ -2,7 +2,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=lowizdev)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=lowizdev&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_title=true)
+<!--![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=lowizdev&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_title=true)-->
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowizdev&layout=compact&theme=synthwave)-->
 
@@ -25,9 +25,11 @@ class Lowizdev(Developer):
     
     self.pronoums = ("He", "Him")
     
-    self.weapons_of_choice = ["C#", "JavaScript", "Python", "PHP", "C++", "Go"] #Quicknote: Possible new additions in the future...
+    self.weapons_of_choice = ["C#", "JavaScript", "PHP", "C++", "C", "Python", "Ruby", "Go"] #Quicknote: Possible new additions in the future...
     
     self.auxiliar_arsenal = [".NET Core", "ASP.NET", "ExpressJS", "Symfony", "Flask", "Django", "Laravel", "TKinter", "Electron", "STL"]
+
+    self.shells = ["PowerShell", "Bash"]
     
     self.frontend_friends = ["HTML5", "CSS3", "Bootstrap", "JQuery", "React", "React Native", "Redux", "Bulma CSS"]
     
@@ -35,23 +37,23 @@ class Lowizdev(Developer):
     
     self.stuff_that_makes_thinking_machines = ["scikit", "Keras", "Tensorflow", "ML.NET", "Weka"]
     
-    self.architectures = ["monolithic", "microservices", "pattern oriented"]
+    self.architectures = ["monolithic", "microservices", "service oriented"]
  
   
   def set_personal_stuff(self):
     
-    currently_learning = "ELK and having a peek at TypeScript"
+    currently_learning = "Automation and having a peek at Ruby"
     
-    current_personal_project = "Trucks are really cool"
+    current_personal_project = "Training..."
     
     current_creative_activity = "Gotta get back into writing and blogging..."
     
-    current_recreational_activity = "Reading Liu's The Three-Body Problem"
+    current_recreational_activity = "Reading Morgan Housel's The Psychology of Money"
     
     self.personal_stuff = [currently_learning, current_personal_project, current_creative_activity, current_recreational_activity]
   
   
-  def listen_to_depeche_mode(self, album):
+  def listen_to_alice_in_chains(self, album):
     pass
 
 ```
