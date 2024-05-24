@@ -8,8 +8,7 @@
 
 Possibly the easiest ways to reach me: 
 
-[![Telegram Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lowizdev "Contact on Telegram")
-[![Linkedin Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-santos-gonsalves-junior-b9279519b/ "Follow me on Linkedin")
+[![Linkedin Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-gonsalves/ "Follow me on Linkedin")
 
 A little bit (actually, quite some bytes [implied joke]) about me...
 
