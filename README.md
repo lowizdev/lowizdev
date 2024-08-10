@@ -24,9 +24,9 @@ class Lowizdev(Developer):
     
     self.pronoums = ("He", "Him")
     
-    self.weapons_of_choice = ["C#", "JavaScript", "PHP", "C++", "C", "Python", "Ruby", "Go"] #Quicknote: Possible new additions in the future...
+    self.weapons_of_choice = ["C#", "Java", "Ruby", "JavaScript", "PHP", "C++", "C", "Python", "Go"] #Quicknote: Possible new additions in the future...
     
-    self.auxiliar_arsenal = [".NET Core", "ASP.NET", "ExpressJS", "Symfony", "Flask", "Django", "Laravel", "TKinter", "Electron", "STL"]
+    self.auxiliar_arsenal = [".NET Core", "ASP.NET", "ExpressJS", "Spring", "Quarkus", "Symfony", "Slim", "Rails", "Flask", "Django", "Laravel", "TKinter", "Electron", "STL"]
 
     self.shells = ["PowerShell", "Bash"]
     
